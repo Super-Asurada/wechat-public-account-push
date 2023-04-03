@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oEVEk6fiFWFBRAxMTmlV3JvhZcD8',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: ' yaoyao',
+      useTemplateId: 'mL70tO97gvSFTkWGKmt6ZKMyYyiAVC3Fb925SvSU2V4',
 
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
@@ -46,13 +46,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'yaoyao',
+  CALLBACK_TEMPLATE_ID: 'mL70tO97gvSFTkWGKmt6ZKMyYyiAVC3Fb925SvSU2V4',
 
   CALLBACK_USERS: [
     {
-      name: 'oEVEk6fiFWFBRAxMTmlV3JvhZcD8',
+      name: '',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oEVEk6fiFWFBRAxMTmlV3JvhZcD8',
     }
   ],
 
