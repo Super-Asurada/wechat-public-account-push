@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '姚姚宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oEVEk6fiFWFBRAxMTmlV3JvhZcD8',
+      id: 'oEVEk6RYA43BA0zy_nHrmHadEWuE',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'mL70tO97gvSFTkWGKmt6ZKMyYyiAVC3Fb925SvSU2V4',
+      useTemplateId: 'TYUflparYl9ySb48MGaj6SrHa_Go57qoB-c9X15TNkA',
 
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
